@@ -115,6 +115,11 @@ body {
   /* word-wrap: break-word; */
 }
 
+.Card_Content_blk span {
+  color: #81C14B;
+  cursor: pointer;
+}
+
 .Carousel_Overly_blk {
   width: 100%;
   padding: 12px 17px;
